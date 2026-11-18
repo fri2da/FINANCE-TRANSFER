@@ -1,2 +1,2 @@
-### FINANCE-TRANSFER
+### Data Analysis Projects
  In the modern academic and professional landscape, proficiency in Microsoft Word is essential for students across various disciplines, including actuarial science. Actuarial Science, which involves the application of mathematical and statistical methods to assess risks in insurance, finance, and other industries, requires students to produce well-structured documents, reports, and presentations. Microsoft Word serves as a fundamental tool in facilitating these tasks efficiently. This essay explores the importance of understanding Microsoft Word for actuarial science undergraduate students by highlighting its role in document preparation, data presentation, collaboration and professional development.
